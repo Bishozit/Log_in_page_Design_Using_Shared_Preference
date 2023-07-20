@@ -1,16 +1,3 @@
-# auto_login
+![Log-in-page](https://github.com/Bishozit/Log_in_page_Design_Using_Shared_Preference/assets/110930138/67e8ea79-1675-40c4-8c66-9ff52fd89d1e)
+![Food_Page](https://github.com/Bishozit/Log_in_page_Design_Using_Shared_Preference/assets/110930138/f32c6a1c-1ad4-4804-bd4d-0bedb3cc515f)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
